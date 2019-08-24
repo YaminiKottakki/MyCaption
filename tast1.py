@@ -1,4 +1,4 @@
 import math
-r=3
+r=float(input("enter radius"))
 a=math.pi*r**2
 print(a)
